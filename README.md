@@ -1,6 +1,6 @@
 # recetapps
 
-A new Flutter project.
+Aplicación para gestión de recetas de comidas, desarrollada con Flutter y Firebase
 
 ## Getting Started
 
