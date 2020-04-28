@@ -1,3 +1,5 @@
+import 'package:recetapps/widgets/Home_page.dart';
+
 
 Abstract class Content{
   Future<HomePageRecetas> lista();
